@@ -1,0 +1,9 @@
+C:\Users\MVi\source\repos\ViTCP\TestClient\bin\Debug\TestClient.exe.config
+C:\Users\MVi\source\repos\ViTCP\TestClient\bin\Debug\TestClient.exe
+C:\Users\MVi\source\repos\ViTCP\TestClient\bin\Debug\TestClient.pdb
+C:\Users\MVi\source\repos\ViTCP\TestClient\bin\Debug\ViTCP.dll
+C:\Users\MVi\source\repos\ViTCP\TestClient\bin\Debug\ViTCP.pdb
+C:\Users\MVi\source\repos\ViTCP\TestClient\obj\Debug\TestClient.csproj.CoreCompileInputs.cache
+C:\Users\MVi\source\repos\ViTCP\TestClient\obj\Debug\TestClient.csproj.CopyComplete
+C:\Users\MVi\source\repos\ViTCP\TestClient\obj\Debug\TestClient.exe
+C:\Users\MVi\source\repos\ViTCP\TestClient\obj\Debug\TestClient.pdb

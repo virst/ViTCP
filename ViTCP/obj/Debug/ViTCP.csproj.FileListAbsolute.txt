@@ -1,0 +1,6 @@
+C:\Users\MVi\source\repos\ViTCP\ViTCP\obj\Debug\ViTCP.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\ViTCP\ViTCP\obj\Debug\ViTCP.csproj.CoreCompileInputs.cache
+C:\Users\MVi\source\repos\ViTCP\ViTCP\bin\Debug\ViTCP.dll
+C:\Users\MVi\source\repos\ViTCP\ViTCP\bin\Debug\ViTCP.pdb
+C:\Users\MVi\source\repos\ViTCP\ViTCP\obj\Debug\ViTCP.dll
+C:\Users\MVi\source\repos\ViTCP\ViTCP\obj\Debug\ViTCP.pdb

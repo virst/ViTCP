@@ -1,0 +1,13 @@
+C:\Users\MVi\source\repos\ViTCP\TestServer\bin\Debug\TestServer.exe.config
+C:\Users\MVi\source\repos\ViTCP\TestServer\bin\Debug\TestServer.exe
+C:\Users\MVi\source\repos\ViTCP\TestServer\bin\Debug\TestServer.pdb
+C:\Users\MVi\source\repos\ViTCP\TestServer\bin\Debug\ViTCP.dll
+C:\Users\MVi\source\repos\ViTCP\TestServer\bin\Debug\ViTCP.pdb
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.csprojAssemblyReference.cache
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.Form1.resources
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.Properties.Resources.resources
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.csproj.GenerateResource.cache
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.csproj.CoreCompileInputs.cache
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.csproj.CopyComplete
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.exe
+C:\Users\MVi\source\repos\ViTCP\TestServer\obj\Debug\TestServer.pdb
